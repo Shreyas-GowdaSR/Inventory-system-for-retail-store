@@ -1,0 +1,8 @@
+{
+  "name": "Remix KiranaStore - Provision Store Inventory System",
+  "description": "Simple and accurate inventory management system for provision stores with stock tracking, low-level alerts, admin/staff access, Node.js + Express backend, and Supabase PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
